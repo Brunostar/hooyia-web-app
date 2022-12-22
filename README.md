@@ -1,2 +1,2 @@
 # hooyia-web-app
-Created with CodeSandbox
+This is the fronend part of the hooyia web application. This is a redux powered react project
