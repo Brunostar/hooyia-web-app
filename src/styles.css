@@ -99,7 +99,7 @@ body {
 
 /*Main Section*/
 .main {
-  background: url("./components/img/shopping-cart.jpg")no-repeat center center fixed;
+  background: url("src/img/shopping-cart.jpg")no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
